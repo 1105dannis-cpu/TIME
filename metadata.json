@@ -1,0 +1,9 @@
+{
+  "name": "Time Pawnshop",
+  "description": "A time-banking social platform where users exchange services for Time Coins (TC). Features a dual-currency system, skill-weighted rewards, and community trust mechanisms.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
